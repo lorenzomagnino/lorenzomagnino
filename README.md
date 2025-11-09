@@ -11,7 +11,7 @@ Featured Publications:
 - [NeuriPS 2025: Solving Continuous Mean Field Games](https://arxiv.org/abs/2510.22158)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino&hide=reviews,issues,stars,prs,constribs&show_icons=false&theme=transparent&bg_color=00000000&hide_rank)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino&hide=reviews,issues,stars,prs,constribs&show_icons=true&theme=transparent&bg_color=00000000&hide_rank=true)
 <!---
 lorenzomagnino/lorenzomagnino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
