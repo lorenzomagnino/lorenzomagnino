@@ -7,8 +7,7 @@
 📫 How to reach me: lm2183[at]cam[dot]ac[dot]com
 
 Featured Publications:
-- [ICML 2025]
-  (https://icml.cc/virtual/2025/poster/45598)
+- [ICML 2025](https://icml.cc/virtual/2025/poster/45598)
 - NeuriPS 2025
   [https://arxiv.org/abs/2510.22158]
 <!---
