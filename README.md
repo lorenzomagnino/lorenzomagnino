@@ -2,7 +2,7 @@
 
 🌱 I’m currently at the University of Cambridge, working on Multi-Agent Robots. 
 
-![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue)
+[![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-blue)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 
 📫 How to reach me: lm2183[at]cam[dot]ac[dot]com
 
