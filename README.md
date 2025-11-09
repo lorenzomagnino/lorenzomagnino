@@ -9,6 +9,9 @@
 Featured Publications:
 - [ICML 2025: Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 - [NeuriPS 2025: Solving Continuous Mean Field Games](https://arxiv.org/abs/2510.22158)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino)
 <!---
 lorenzomagnino/lorenzomagnino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
