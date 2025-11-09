@@ -1,6 +1,6 @@
 👋 Hi, I’m @lorenzomagnino
 
-🌱 I’m currently at the University of Cambridge, working on Multi-Agent Robots. [https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao]{Google Scholar}
+🌱 I’m currently at the University of Cambridge, working on Multi-Agent Robots.  {Google Scholar}[https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao]
 
 📫 How to reach me: lm2183[at]cam[dot]ac[dot]com
 
