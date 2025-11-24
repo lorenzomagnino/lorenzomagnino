@@ -1,7 +1,13 @@
 👋 Hi, I’m @lorenzomagnino, I’m currently at the University of Cambridge, working on Multi-Agent Robotics. 
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-green)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
+Ongoing Research: 
+- Robotics
+- Neural Diversity in Multi-Agent Systems
+- GNN for Robotics Communication
+- Aggressive Flight
 
+  
 Featured Publications:
 - [ICML 2025.  Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 - [NeuriPS 2025.  Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
