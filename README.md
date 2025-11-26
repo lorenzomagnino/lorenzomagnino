@@ -9,7 +9,7 @@
 - Aggressive Flight
 
 -------------
-Featured Publications:
+👾 Featured Publications:
 - [ICML 2025.  Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 - [NeuriPS 2025.  Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
 
