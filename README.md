@@ -8,12 +8,12 @@
 - GNN for Robotics Communication
 - Aggressive Flight
 
-  
+-------------
 Featured Publications:
 - [ICML 2025.  Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 - [NeuriPS 2025.  Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
 
--------------
+
 <!---
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino&hide=reviews,issues,stars,prs,contribs&show_icons=true&theme=transparent&bg_color=00000000&hide_rank=true)
 <!---
