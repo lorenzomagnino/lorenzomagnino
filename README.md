@@ -2,6 +2,8 @@
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-green)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 
+NEWS: I will be at NeurIPS 2025. Let's Connect. [https://lorenzomagnino.github.io/Connection-website/?name=Lorenzo+Magnino+%28me%29&institute=Cambridge&preferred-date=Dec+3rd&time=16.00&message=Interested+in+Science]
+
 🧩 Ongoing Research: 
 - Robotics
 - Neural Diversity in Multi-Agent Systems
