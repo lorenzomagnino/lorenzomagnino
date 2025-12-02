@@ -2,7 +2,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-green)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 
-NEWS: I will be at NeurIPS 2025. Let's Connect -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
+NEWS: I will be at NeurIPS 2025!. Let's Connect -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
 
 🧩 Ongoing Research: 
 - Multi Agent Robotics
