@@ -5,10 +5,9 @@
 NEWS: I am at NeurIPS 2025!. Let's Connect -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
 
 🧩 Ongoing Research: 
-- Multi-Agent Robotics
+- Multi-Agent Robotics (collective intelligence)
 - Neural Diversity in Multi-Agent Systems
 - GNN for Robotics Communication
-- Aggressive Flight
 
 -------------
 👾 Featured Publications:
