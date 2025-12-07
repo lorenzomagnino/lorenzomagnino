@@ -2,7 +2,16 @@
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-green)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 
-NEWS: I am at NeurIPS 2025!. Let's Connect -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
+Personal Page -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
+
+News: 
+- Dec 2025: Poster presentation at NeurIPS 20205 in San Diego
+- Nov 2025: Talk at Symposium "Future of Intelligent Robotics" in Cambridge
+- Oct 2025: Starting as a Research Assistant at the University of Cambridge, ProrokLab
+- Jul 2025: Poster presentation at ICML 2025 in Vancouver
+- Sep 2024: Continue as Research Assistant at NYU Shanghai w. Mathieu Lauriere 
+- Mar 2024: Head to NYU Shanghai as a visiting student
+
 
 🧩 Ongoing Research: 
 - Multi-Agent Robotics (collective intelligence)
