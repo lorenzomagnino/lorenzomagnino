@@ -6,18 +6,11 @@
 
 ## 🧩 Ongoing Research
 
-| Domain | Research Focus |
-| :--- | :--- |
-| Multi-Agent Systems | Collective Intelligence and Coordination |
-| Machine Learning | Neural Diversity for Robust Multi-Agent Learning |
-| Robotics Communication | Graph Neural Networks (GNN) for Inter-Agent Communication |
+My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
 
 ---
 ## 🔬 Featured Publications
 
-* **ICML 2025.** *Learning to Stop*
-* **NeurIPS 2025.** *Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics*
-👾 Featured Publications:
 * **ICML 2025.** [Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 * **NeuriPS 2025.** [Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
 
