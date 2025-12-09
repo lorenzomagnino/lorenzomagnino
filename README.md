@@ -7,7 +7,7 @@
 ## 🧩 Ongoing Research
 
 | Domain | Research Focus |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Multi-Agent Systems | Collective Intelligence and Coordination |
 | Machine Learning | Neural Diversity for Robust Multi-Agent Learning |
 | Robotics Communication | Graph Neural Networks (GNN) for Inter-Agent Communication |
