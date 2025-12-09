@@ -10,8 +10,9 @@ My research lies in multi-agent robotics systems. My goal is to achieve collecti
 
 ## 🔬 Featured Publications
 
-* **ICML 2025.** [Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
 * **NeuriPS 2025.** [Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
+* **ICML 2025.** [Learning to Stop: Deep Learning for Mean Field Optimal Stopping](https://icml.cc/virtual/2025/poster/45598)
+
 
 
 
