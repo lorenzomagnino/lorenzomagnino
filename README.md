@@ -8,7 +8,6 @@
 
 My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
 
----
 ## 🔬 Featured Publications
 
 * **ICML 2025.** [Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
