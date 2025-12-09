@@ -4,11 +4,19 @@
 [![Homepage](https://img.shields.io/badge/HaveALook-HomePage-red)](https://lorenzomagnino.github.io/homepage/)
 
 
+```mermaid
+gantt
+  title Ongoing research — compact status rows
+  dateFormat  YYYY-MM-DD
+  axisFormat  %Y-%m
 
-🧩 Ongoing Research: 
-- Multi-Agent Robotics (collective intelligence)
-- Neural Diversity in Multi-Agent Systems
-- GNN for Robotics Communication
+  section Projects
+  Formal verification of X — 60% (PI) :active, fv_x, 2024-09-01, 330d
+  ML pipeline for Y — 40% (Contributor) :active, ml_y, 2025-01-01, 180d
+  Survey on Z — 30% (Lead author) :active, z_survey, 2025-05-01, 90d
+
+  %% Use task labels to show role and approximate percent done.
+  %% For precise linking you can also add `click` lines like in the previous example.
 
 -------------
 👾 Featured Publications:
