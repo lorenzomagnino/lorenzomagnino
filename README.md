@@ -4,15 +4,22 @@
 [![Homepage](https://img.shields.io/badge/HaveALook-HomePage-red)](https://lorenzomagnino.github.io/homepage/)
 
 
-🧩 Ongoing Research: 
-- Multi-Agent Robotics (collective intelligence)
-- Neural Diversity in Multi-Agent Systems
-- GNN for Robotics Communication
+## 🧩 Ongoing Research
 
--------------
+| Domain | Research Focus | Status |
+| :--- | :--- | :--- |
+| Multi-Agent Systems | Collective Intelligence and Coordination | Active |
+| Machine Learning | Neural Diversity for Robust Multi-Agent Learning | Active |
+| Robotics Communication | Graph Neural Networks (GNN) for Inter-Agent Communication | In Progress |
+
+---
+## 🔬 Featured Publications
+
+* **ICML 2025.** *Learning to Stop*
+* **NeurIPS 2025.** *Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics*
 👾 Featured Publications:
-- [ICML 2025.  Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
-- [NeuriPS 2025.  Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
+* **ICML 2025.** [Learning to Stop](https://icml.cc/virtual/2025/poster/45598)
+* **NeuriPS 2025.** [Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
 
 
 
