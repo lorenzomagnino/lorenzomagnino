@@ -4,7 +4,7 @@
 
 Personal Page -> [Research. Lorenzo](https://lorenzomagnino.github.io/Connection-website/)
 
-News: 
+Last News: 
 - Dec 2025: Poster presentation at NeurIPS 20205 in San Diego
 - Nov 2025: Talk at Symposium "Future of Intelligent Robotics" in Cambridge
 - Oct 2025: Starting as a Research Assistant at the University of Cambridge, ProrokLab
