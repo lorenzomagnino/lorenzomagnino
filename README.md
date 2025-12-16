@@ -6,7 +6,7 @@
 
 ## 🧩 Ongoing Research
 
-My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
+My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world
 
 ## 🔬 Featured Publications
 
