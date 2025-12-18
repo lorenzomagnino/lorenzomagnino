@@ -8,14 +8,6 @@
 
 My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world
 
-## 🔬 Featured Publications
-
-* **NeurIPS 2025.** [Solving Continuous Mean Field Games: Deep Reinforcement Learning for Non-Stationary Dynamics](https://arxiv.org/abs/2510.22158)
-* **ICML 2025.** [Learning to Stop: Deep Learning for Mean Field Optimal Stopping](https://icml.cc/virtual/2025/poster/45598)
-
-
-
-
 <!---
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino&hide=reviews,issues,stars,prs,contribs&show_icons=true&theme=transparent&bg_color=00000000&hide_rank=true)
 <!---
