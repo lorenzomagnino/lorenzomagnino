@@ -4,7 +4,7 @@
 [![Homepage](https://img.shields.io/badge/HaveALook-HomePage-red)](https://lorenzomagnino.github.io/homepage/)
 
 
-🧩 **Ongoing Research**: My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
+🚀 **Ongoing Research**: My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
 
 <!---
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzomagnino&hide=reviews,issues,stars,prs,contribs&show_icons=true&theme=transparent&bg_color=00000000&hide_rank=true)
