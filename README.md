@@ -1,8 +1,12 @@
 🧃 Hi, I’m Lorenzo, and I am currently at the University of Cambridge, working on Robotics and Intelligence🤖. 
 
-[![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-blue)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
-[![Homepage](https://img.shields.io/badge/HaveALook-HomePage-red)](https://lorenzomagnino.github.io/homepage/)
+<a href="https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Publications-Google_Scholar-blue" alt="Google Scholar">
+</a>
 
+<a href="https://lorenzomagnino.github.io/homepage/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HaveALook-HomePage-red" alt="Homepage">
+</a>
 
 🚀 **Ongoing Research**: My research lies in multi-agent robotics systems. My goal is to achieve collective artificial intelligence in the real world.
 
