@@ -1,5 +1,5 @@
 ## 🧃 Hi, I’m Lorenzo
-I am currently at the **University of Cambridge**, working on Robotics and Intelligence🤖. 
+I am currently at the **University of Cambridge**, working on Robotics and Collective Intelligence🤖. 
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-blue)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 [![Homepage](https://img.shields.io/badge/HomePage-red)](https://lorenzomagnino.github.io/homepage/)
