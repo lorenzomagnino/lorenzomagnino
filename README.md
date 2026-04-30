@@ -3,7 +3,10 @@ I am currently at the **University of Cambridge**, working on Robotics and Colle
 
 [![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-blue)](https://scholar.google.com/citations?user=V0Jerh0AAAAJ&hl=it&oi=ao)
 [![Homepage](https://img.shields.io/badge/Personal-HomePage-red)](https://lorenzomagnino.github.io/homepage/)
-[![Lab](https://img.shields.io/badge/University-ProrokLab-orange)](https://proroklab.org/team/)
+
+
+Have a look at our Lab: 
+[![Lab](https://img.shields.io/badge/University-ProrokLab-green)](https://proroklab.org/team/)
 
 
 🚀 **Ongoing Research**: My research lies in Physical AI and Multi-Agent Robotics Systems.
