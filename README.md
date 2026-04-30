@@ -6,7 +6,7 @@ I am currently at the **University of Cambridge**, working on Robotics and Colle
 
 
 Have a look at our Lab: 
-[![Lab](https://img.shields.io/badge/University-ProrokLab-green)](https://proroklab.org/team/)
+[![Lab](https://img.shields.io/badge/University-ProrokLab-green)](https://www.proroklab.org)
 
 
 🚀 **Ongoing Research**: My research lies in Physical AI and Multi-Agent Robotics Systems.
